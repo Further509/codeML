@@ -6,4 +6,5 @@
 - Reshape Matrix
 - Calculate Mean by Row or Column
 - Scalar Multiplication of a Matrix
+- Linear Regression Using Normal Equation
 - Linear Regression Using Gradient Descent
