@@ -4,4 +4,5 @@
 - Matrix-Vector Dot Product
 - Transpose of a Matrix
 - Reshape Matrix
+- Calculate Mean by Row or Column
 - Linear Regression Using Gradient Descent
