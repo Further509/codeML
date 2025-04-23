@@ -14,3 +14,5 @@
 ### Machine Learning
 - Linear Regression Using Normal Equation
 - Linear Regression Using Gradient Descent
+### Deep Learning
+- Sigmoid Activation Function Understanding
