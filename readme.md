@@ -16,4 +16,7 @@
 - Linear Regression Using Gradient Descent
 ### Deep Learning
 - Sigmoid Activation Function Understanding
+### NLP
+- Optimal String Alignment Distance
+### Probability
 - Poisson Distribution Probability Calculator
