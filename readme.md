@@ -16,3 +16,4 @@
 - Linear Regression Using Gradient Descent
 ### Deep Learning
 - Sigmoid Activation Function Understanding
+- Poisson Distribution Probability Calculator
