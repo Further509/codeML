@@ -15,6 +15,7 @@
 ### Statistics
 - Caclulate Covariance Matrix
 ### Machine Learning
+- Implement Precision Metric
 - Linear Regression Using Normal Equation
 - Linear Regression Using Gradient Descent
 - Feature Scaling Implementation
