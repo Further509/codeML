@@ -19,10 +19,13 @@
 - Linear Regression Using Normal Equation
 - Linear Regression Using Gradient Descent
 - Feature Scaling Implementation
+- K-Means Clustering
 ### Deep Learning
 - Sigmoid Activation Function Understanding
 - Softmax Activation Function Implementation
+- Single Neuron
 - Single Neuron with Backpropagation
+- KL Divergence Between Two Normal Distributions
 ### NLP
 - Optimal String Alignment Distance
 ### Probability
