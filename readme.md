@@ -16,6 +16,7 @@
 - Caclulate Covariance Matrix
 ### Machine Learning
 - Implement Precision Metric
+- Implement F-Score Calculation for Binary Classification
 - Linear Regression Using Normal Equation
 - Linear Regression Using Gradient Descent
 - Feature Scaling Implementation
