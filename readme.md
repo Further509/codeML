@@ -14,6 +14,7 @@
 - Phi Transformation for Polynomial Features
 ### Statistics
 - Caclulate Covariance Matrix
+- Calculate the Phi Coefficient
 ### Machine Learning
 - Implement Precision Metric
 - Implement F-Score Calculation for Binary Classification
