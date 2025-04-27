@@ -14,7 +14,9 @@
 - Phi Transformation for Polynomial Features
 ### Statistics
 - Caclulate Covariance Matrix
+- Descriptive Statistics Calculator
 - Calculate the Phi Coefficient
+- Bhattacharyya Distance Between Two Distributions
 ### Machine Learning
 - Implement Precision Metric
 - Implement F-Score Calculation for Binary Classification
