@@ -12,6 +12,7 @@
 - Calculate Eigenvalues of a Matrix
 - Matrix Transformation
 - Phi Transformation for Polynomial Features
+- Solve System of Linear Equations Using Cramer's Rule
 ### Statistics
 - Caclulate Covariance Matrix
 - Descriptive Statistics Calculator
