@@ -35,3 +35,5 @@
 - Optimal String Alignment Distance
 ### Probability
 - Poisson Distribution Probability Calculator
+- Binomial Distribution Probability
+- Normal Distribution PDF Calculator
