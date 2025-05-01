@@ -37,3 +37,5 @@
 - Poisson Distribution Probability Calculator
 - Binomial Distribution Probability
 - Normal Distribution PDF Calculator
+### Computer Vision
+- Calculate Image Brightness
