@@ -34,6 +34,7 @@
 - KL Divergence Between Two Normal Distributions
 ### NLP
 - Optimal String Alignment Distance
+- Implement TF-IDF (Term Frequency-Inverse Document Frequency)
 ### Probability
 - Poisson Distribution Probability Calculator
 - Binomial Distribution Probability
