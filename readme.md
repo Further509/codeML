@@ -36,6 +36,7 @@
 - Optimal String Alignment Distance
 - Implement TF-IDF (Term Frequency-Inverse Document Frequency)
 - Compute Pointwise Mutual Information
+- Evaluate Translation Quality with METEOR Score
 ### Probability
 - Poisson Distribution Probability Calculator
 - Binomial Distribution Probability
