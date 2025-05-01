@@ -35,6 +35,7 @@
 ### NLP
 - Optimal String Alignment Distance
 - Implement TF-IDF (Term Frequency-Inverse Document Frequency)
+- Compute Pointwise Mutual Information
 ### Probability
 - Poisson Distribution Probability Calculator
 - Binomial Distribution Probability
