@@ -11,6 +11,7 @@
 - Calculate Covariance Matrix
 - Calculate Eigenvalues of a Matrix
 - Matrix Transformation
+- Matrix times Matrix
 - Phi Transformation for Polynomial Features
 - Solve System of Linear Equations Using Cramer's Rule
 ### Statistics
