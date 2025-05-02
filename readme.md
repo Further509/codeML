@@ -27,13 +27,16 @@
 - Linear Regression Using Gradient Descent
 - Feature Scaling Implementation
 - K-Means Clustering
-- - Calculate R-squared for Regression Analysis
+- Calculate R-squared for Regression Analysis
+- Implement K-Fold Cross-Validation
 ### Deep Learning
 - Sigmoid Activation Function Understanding
 - Softmax Activation Function Implementation
 - Single Neuron
 - Single Neuron with Backpropagation
 - KL Divergence Between Two Normal Distributions
+- Implementing Basic Autograd Operations
+- Implementation of Log Softmax Function
 ### NLP
 - Optimal String Alignment Distance
 - Implement TF-IDF (Term Frequency-Inverse Document Frequency)
