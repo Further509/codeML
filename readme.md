@@ -14,6 +14,7 @@
 - Matrix times Matrix
 - Phi Transformation for Polynomial Features
 - Solve System of Linear Equations Using Cramer's Rule
+
 ### Statistics
 - Caclulate Covariance Matrix
 - Descriptive Statistics Calculator
@@ -26,6 +27,7 @@
 - Linear Regression Using Gradient Descent
 - Feature Scaling Implementation
 - K-Means Clustering
+- - Calculate R-squared for Regression Analysis
 ### Deep Learning
 - Sigmoid Activation Function Understanding
 - Softmax Activation Function Implementation
@@ -45,3 +47,4 @@
 - Normal Distribution PDF Calculator
 ### Computer Vision
 - Calculate Image Brightness
+- Grayscale Image Contrast Calculator
