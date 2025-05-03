@@ -40,6 +40,7 @@
 - Implementation of Log Softmax Function
 - Implement ReLU Activation Function
 - Leaky ReLU Activation Function
+- Simple Convolutional 2D Layer
 ### NLP
 - Optimal String Alignment Distance
 - Implement TF-IDF (Term Frequency-Inverse Document Frequency)
