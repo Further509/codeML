@@ -38,6 +38,7 @@
 - KL Divergence Between Two Normal Distributions
 - Implementing Basic Autograd Operations
 - Implementation of Log Softmax Function
+- Implement ReLU Activation Function
 ### NLP
 - Optimal String Alignment Distance
 - Implement TF-IDF (Term Frequency-Inverse Document Frequency)
