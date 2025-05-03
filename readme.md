@@ -29,6 +29,7 @@
 - K-Means Clustering
 - Calculate R-squared for Regression Analysis
 - Implement K-Fold Cross-Validation
+- Measure Disorder in Apple Colors
 ### Deep Learning
 - Sigmoid Activation Function Understanding
 - Softmax Activation Function Implementation
