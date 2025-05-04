@@ -14,7 +14,7 @@
 - Matrix times Matrix
 - Phi Transformation for Polynomial Features
 - Solve System of Linear Equations Using Cramer's Rule
-
+- Solve Linear Equations using Jacobi Method
 ### Statistics
 - Caclulate Covariance Matrix
 - Descriptive Statistics Calculator
@@ -41,6 +41,10 @@
 - Implement ReLU Activation Function
 - Leaky ReLU Activation Function
 - Simple Convolutional 2D Layer
+- Implementing a Custom Dense Layer in Python
+- Implement Adam Optimization Algorithm
+- Implement Self-Attention Mechanism
+- Implementing a Simple RNN
 ### NLP
 - Optimal String Alignment Distance
 - Implement TF-IDF (Term Frequency-Inverse Document Frequency)
