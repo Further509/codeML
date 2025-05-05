@@ -15,6 +15,7 @@
 - Phi Transformation for Polynomial Features
 - Solve System of Linear Equations Using Cramer's Rule
 - Solve Linear Equations using Jacobi Method
+- Transformation Matrix from Basis B to C
 ### Statistics
 - Caclulate Covariance Matrix
 - Descriptive Statistics Calculator
@@ -45,6 +46,8 @@
 - Implement Adam Optimization Algorithm
 - Implement Self-Attention Mechanism
 - Implementing a Simple RNN
+- Implement Group Normalization
+- Implement Long Short-Term Memory (LSTM) Network
 ### NLP
 - Optimal String Alignment Distance
 - Implement TF-IDF (Term Frequency-Inverse Document Frequency)
