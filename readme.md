@@ -48,6 +48,9 @@
 - Implementing a Simple RNN
 - Implement Group Normalization
 - Implement Long Short-Term Memory (LSTM) Network
+- Dynamic Tanh: Normalization-Free Transformer Activation
+- Implement Batch Normalization for BCHW Input
+- Calculate Computational Efficiency of MoE
 ### NLP
 - Optimal String Alignment Distance
 - Implement TF-IDF (Term Frequency-Inverse Document Frequency)
