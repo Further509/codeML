@@ -31,6 +31,7 @@
 - Calculate R-squared for Regression Analysis
 - Implement K-Fold Cross-Validation
 - Measure Disorder in Apple Colors
+- Calculate Accuracy Score
 ### Deep Learning
 - Sigmoid Activation Function Understanding
 - Softmax Activation Function Implementation
@@ -51,6 +52,9 @@
 - Dynamic Tanh: Normalization-Free Transformer Activation
 - Implement Batch Normalization for BCHW Input
 - Calculate Computational Efficiency of MoE
+- Implement the Noisy Top-K Gating Function
+- Implement a Sparse Mixture of Experts Layer
+- Implement Global Average Pooling
 ### NLP
 - Optimal String Alignment Distance
 - Implement TF-IDF (Term Frequency-Inverse Document Frequency)
