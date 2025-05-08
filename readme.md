@@ -58,6 +58,8 @@
 - Implement the Hard Sigmoid Activation Function
 - Adam Optimizer
 - Implement a Simple Residual Block with Shortcut Connection
+- Implement Masked Self-Attention
+- Implement Multi-Head Attention
 ### NLP
 - Optimal String Alignment Distance
 - Implement TF-IDF (Term Frequency-Inverse Document Frequency)
