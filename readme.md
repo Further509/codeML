@@ -60,6 +60,9 @@
 - Implement a Simple Residual Block with Shortcut Connection
 - Implement Masked Self-Attention
 - Implement Multi-Head Attention
+- The Pattern Weaver's Code
+- Positional Encoding Calculator
+- Implement a Simple RNN with Backpropagation Through Time (BPTT)
 ### NLP
 - Optimal String Alignment Distance
 - Implement TF-IDF (Term Frequency-Inverse Document Frequency)
