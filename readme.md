@@ -16,6 +16,8 @@
 - Solve System of Linear Equations Using Cramer's Rule
 - Solve Linear Equations using Jacobi Method
 - Transformation Matrix from Basis B to C
+- Dot Product Calculator
+- Calculate Cosine Similarity Between Vectors
 ### Statistics
 - Caclulate Covariance Matrix
 - Descriptive Statistics Calculator
@@ -32,6 +34,8 @@
 - Implement K-Fold Cross-Validation
 - Measure Disorder in Apple Colors
 - Calculate Accuracy Score
+- Implement Gradient Descent Variants with MSE Loss
+- Implement Lasso Regression using Gradient Descent
 ### Deep Learning
 - Sigmoid Activation Function Understanding
 - Softmax Activation Function Implementation
