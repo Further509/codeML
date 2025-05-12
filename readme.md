@@ -36,6 +36,7 @@
 - Calculate Accuracy Score
 - Implement Gradient Descent Variants with MSE Loss
 - Implement Lasso Regression using Gradient Descent
+- Implement Efficient Sparse Window Attention
 ### Deep Learning
 - Sigmoid Activation Function Understanding
 - Softmax Activation Function Implementation
