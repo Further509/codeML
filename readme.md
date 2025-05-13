@@ -18,6 +18,8 @@
 - Transformation Matrix from Basis B to C
 - Dot Product Calculator
 - Calculate Cosine Similarity Between Vectors
+- Singular Value Decomposition (SVD)
+- Convert Vector to Diagonal Matrix
 ### Statistics
 - Caclulate Covariance Matrix
 - Descriptive Statistics Calculator
@@ -37,6 +39,7 @@
 - Implement Gradient Descent Variants with MSE Loss
 - Implement Lasso Regression using Gradient Descent
 - Implement Efficient Sparse Window Attention
+- Detect Overfitting or Underfitting
 ### Deep Learning
 - Sigmoid Activation Function Understanding
 - Softmax Activation Function Implementation
@@ -75,10 +78,12 @@
 - BM25 Ranking
 - Evaluate Translation Quality with METEOR Score
 - GPT-2 Text Generation
+- Calculate Unigram Probability from Corpus
 ### Probability
 - Poisson Distribution Probability Calculator
 - Binomial Distribution Probability
 - Normal Distribution PDF Calculator
+- Simulate Markov Chain Transitions
 ### Computer Vision
 - Calculate Image Brightness
 - Grayscale Image Contrast Calculator
